@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\bin\Debug\ConDay5Assign6.exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\bin\Debug\ConDay5Assign6.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\bin\Debug\ConDay5Assign6.pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\obj\Debug\ConDay5Assign6.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\obj\Debug\ConDay5Assign6.csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\obj\Debug\ConDay5Assign6.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\obj\Debug\ConDay5Assign6.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConDay5Assign6\ConDay5Assign6\obj\Debug\ConDay5Assign6.pdb
